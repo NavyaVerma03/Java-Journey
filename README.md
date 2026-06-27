@@ -1,160 +1,106 @@
 <div align="center">
 
-# ☕ JAVA JOURNEY
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="140">
+ Java Journey
 
-### 🚀 Learning • Practice • Build • Grow
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="140">
-</p>
+### 🚀 My Complete Java Learning & Practice Repository
 
 <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Repository-Java%20Journey-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Problem%20Solving-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-❤-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository-Java%20Journey-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-❤-red?style=for-the-badge"/>
 
 ---
 
-## 🌟 About Repository
+*"Every Expert Was Once a Beginner."* ✨
 
-Welcome to my **Java Journey**.
+</div>
 
-This repository contains all my Java learning, practice programs, coding questions, logic building exercises, and future Java projects.
+# 📖 About
 
-I'm continuously improving my programming skills by solving problems and learning new concepts every day.
+Welcome to **Java Journey**.
 
-> **"Consistency Beats Talent."**
+This repository is my personal Java learning space where I practice programming concepts, solve coding questions, improve logic building, and strengthen problem-solving skills.
+
+I'll keep updating this repository regularly as I learn new Java concepts—from basic syntax to advanced topics.
 
 ---
 
-# 📚 Learning Roadmap
+# 📚 Topics
 
-- ✅ Java Basics
-- ✅ Variables & Data Types
-- ✅ Operators
-- ✅ Input / Output
-- ✅ Conditional Statements
-- ✅ Loops
-- 🔄 Control Flow
-- ⏳ Functions / Methods
-- ⏳ Arrays
-- ⏳ Strings
-- ⏳ Recursion
-- ⏳ Object-Oriented Programming
-- ⏳ Exception Handling
-- ⏳ Collections Framework
-- ⏳ File Handling
-- ⏳ Multithreading
-- ⏳ Java 8 Features
-- ⏳ DSA using Java
-- ⏳ Mini Projects
-- ⏳ Major Projects
+- 📌 Java Basics
+- 📌 Variables & Data Types
+- 📌 Operators
+- 📌 Input / Output
+- 📌 Control Flow
+- 📌 Loops
+- 📌 Pattern Programs
+- 📌 Number Programs
+- 📌 Functions / Methods
+- 📌 Arrays
+- 📌 Strings
+- 📌 Recursion
+- 📌 Object-Oriented Programming (OOP)
+- 📌 Exception Handling
+- 📌 Collections Framework
+- 📌 File Handling
+- 📌 Multithreading
+- 📌 Java 8 Features
+- 📌 DSA in Java
+- 📌 Practice Questions
+- 📌 Mini Projects
+- 🚀 More Coming Soon...
 
 ---
 
 # 🎯 Goals
 
-✔ Improve Logic Building
+✔ Master Java Programming
 
-✔ Become Strong in Java
+✔ Improve Coding Logic
 
 ✔ Practice Daily
 
 ✔ Build Real Projects
 
-✔ Crack Coding Interviews
-
-✔ Become a Full Stack Java Developer
+✔ Prepare for Placements & Interviews
 
 ---
 
 # 📂 Repository Structure
 
-```text
+```
 Java Journey
 │
 ├── Practice Questions
-├── Java Basics
-├── Variables
-├── Operators
-├── Input Output
 ├── Control Flow
 ├── Loops
 ├── Functions
 ├── Arrays
 ├── Strings
-├── Recursion
 ├── OOP
-├── Exception Handling
 ├── Collections
-├── File Handling
-├── Java 8
+├── Exception Handling
 ├── DSA
 └── Projects
 ```
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea"/>
-
-</p>
-
----
-
 # 🌱 Learning Philosophy
 
-```java
-while(alive){
-    Learn();
-    Practice();
-    Build();
-    Repeat();
-}
-```
+> **Learn ➜ Practice ➜ Build ➜ Repeat**
 
----
-
-# ⭐ Quote
-
-> "First, solve the problem. Then, write the code."
+Every program written here is one more step toward becoming a better software developer.
 
 ---
 
 <div align="center">
 
-# ❤️ Thank You For Visiting
+## ⭐ Thanks for Visiting!
 
-### ⭐ Don't Forget To Star This Repository ⭐
+If you like this repository, consider giving it a ⭐.
 
-🚀 Happy Coding ☕
+**Happy Coding! ❤️**
 
 </div>
