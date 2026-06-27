@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="140">   Java Journey
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100">   Java Journey
  
 
 ### 🚀 My Complete Java Learning & Practice Repository
