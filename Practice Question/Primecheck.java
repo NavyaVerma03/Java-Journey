@@ -1,5 +1,4 @@
 // Create a method isPrime(int n) that return true if the number is prime.
-import java.sql.SQLOutput;
 import java.util.Scanner;
 class Primecheck{
     public static void main(String[] args) {
