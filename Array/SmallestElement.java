@@ -1,3 +1,4 @@
+// Find the smallest element in an array.
 package Array;
 
 import java.util.Scanner;
