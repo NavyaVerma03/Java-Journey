@@ -1,3 +1,5 @@
+// Read an array of N integers and print all elements.
+
 package Array;
 
 import java.util.Scanner;
@@ -24,5 +26,5 @@ public class ArrayPrint {
 
         System.out.println("]");
     }
-    
+
 }
