@@ -1,5 +1,5 @@
 // Find the index of a given element using Linear Search
-package Array.DSA;
+package Array.DSA.LinearSearch;
 
 import java.util.Arrays;
 import java.util.Scanner;

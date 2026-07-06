@@ -1,5 +1,5 @@
 // Search an element in an array using Linear Search
-package Array.DSA;
+package Array.DSA.LinearSearch;
 
 import java.util.Arrays;
 import java.util.Scanner;

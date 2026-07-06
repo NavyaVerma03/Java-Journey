@@ -1,5 +1,5 @@
 // Find all the indexes of a given element in an array
-package Array.DSA;
+package Array.DSA.LinearSearch;
 
 import java.util.Arrays;
 import java.util.Scanner;
