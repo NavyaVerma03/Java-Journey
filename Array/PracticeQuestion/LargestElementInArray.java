@@ -1,6 +1,6 @@
 // Write a Java program to find the largest element in an array using array traversal and print its value.
 
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Arrays;
 

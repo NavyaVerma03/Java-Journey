@@ -1,5 +1,5 @@
 // Find the sum of all elements in an array.
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Scanner;
 

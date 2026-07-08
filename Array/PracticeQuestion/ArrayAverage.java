@@ -1,5 +1,5 @@
 // Find the average of array elements.
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Scanner;
 

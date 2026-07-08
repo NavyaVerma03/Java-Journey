@@ -1,6 +1,6 @@
 //Write a Java program to search for a given element in an array using Linear Search. If the element is found, print its index; otherwise, print "Element not found".
 
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Arrays;
 import java.util.Scanner;

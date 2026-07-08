@@ -1,5 +1,5 @@
 // Write a Java program to count the number of subarrays whose sum is equal to a given target value.
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Scanner;
 

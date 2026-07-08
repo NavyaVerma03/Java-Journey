@@ -1,5 +1,5 @@
 // Reverse an array.
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Scanner;
 

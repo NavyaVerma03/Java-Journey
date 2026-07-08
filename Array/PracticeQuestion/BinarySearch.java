@@ -1,5 +1,5 @@
 // Write a Java program to perform Binary Search on a sorted array and print the index of the searched element. If the element is not found, print "Element not found".
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,5 +1,5 @@
 // Write a Java program to find the smallest element in an array.
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Arrays;
 

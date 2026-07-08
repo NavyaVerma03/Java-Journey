@@ -1,10 +1,9 @@
-// Find the second largest element in an array.
-
-package Array;
+// Check if the array is sorted.
+package Array.PracticeQuestion;
 
 import java.util.Scanner;
 
-public class SecondLargest{
+public class CheckShortedOrNot {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size of the array : ");
@@ -27,20 +26,18 @@ public class SecondLargest{
         }
         System.out.println("]");
 
-        int largest = Integer.MIN_VALUE;
-        int secondLargest = Integer.MIN_VALUE;
-
-        for (int i = 0; i < s; i++) {
-            if (arr[i] > largest) {
-                secondLargest = largest;
-                largest = arr[i];
-
-            }
-            else if (arr[i] > secondLargest && arr[i] < largest) {
-                secondLargest = arr[i];
+        boolean isShorted = true;
+        for (int i = 0; i < s-1; i++) {
+            if(arr[i]>arr[i+1]){
+                isShorted = false;
+                break;
             }
         }
-        System.out.println("The Second Largest element in the array is: " + secondLargest);
-    }
 
+        if (isShorted){
+            System.out.println("Array is Shorted");
+        } else {
+            System.out.println("Array is Not Shorted");
+        }
+    }
 }

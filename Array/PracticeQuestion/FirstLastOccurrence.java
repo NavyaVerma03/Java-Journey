@@ -1,5 +1,5 @@
 // Write a Java program to find the first and last occurrence of a given element in an array. If the element is not present, print an appropriate message.
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Arrays;
 import java.util.Scanner;

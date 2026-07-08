@@ -1,5 +1,5 @@
 // Write a Java program to find the length of an array.
-package Array;
+package Array.PracticeQuestion;
 
 public class ArrayLength {
     public static void main(String[] args) {

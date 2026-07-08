@@ -1,5 +1,5 @@
 // Write a Java program to count how many times a given element appears in an array using Linear Search.
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Arrays;
 import java.util.Scanner;

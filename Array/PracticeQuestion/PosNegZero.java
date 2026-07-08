@@ -1,5 +1,5 @@
 // Write a Java program to count the number of positive, negative, and zero elements in an array.
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Arrays;
 

@@ -1,9 +1,10 @@
-// Find the smallest element in an array.
-package Array;
+// Find the second largest element in an array.
+
+package Array.PracticeQuestion;
 
 import java.util.Scanner;
 
-public class SmallestElement {
+public class SecondLargest{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size of the array : ");
@@ -26,14 +27,20 @@ public class SmallestElement {
         }
         System.out.println("]");
 
-        int min = arr[0];
-        for (int i = 1; i < s; i++) {
-            if (arr[i] < min) {
-                min = arr[i];
+        int largest = Integer.MIN_VALUE;
+        int secondLargest = Integer.MIN_VALUE;
+
+        for (int i = 0; i < s; i++) {
+            if (arr[i] > largest) {
+                secondLargest = largest;
+                largest = arr[i];
 
             }
+            else if (arr[i] > secondLargest && arr[i] < largest) {
+                secondLargest = arr[i];
+            }
         }
-        System.out.println("The Smallest element in the array is: " + min);
+        System.out.println("The Second Largest element in the array is: " + secondLargest);
     }
 
 }

@@ -1,9 +1,9 @@
-// Write a Java program to left rotate an array by one element.
-package Array;
+// Write a Java program to right rotate an array by K elements.
+package Array.PracticeQuestion;
 
 import java.util.Scanner;
 
-public class LeftRotateByOne {
+public class RightRotateByOne {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Array Size: ");
@@ -26,13 +26,13 @@ public class LeftRotateByOne {
         }
         System.out.println("]");
 
-        int temp = arr[0];
-        for(int i=0;i<s-1;i++){
-            arr[i] = arr[i+1];
+        int temp = arr[s-1];
+        for(int i=s-1;i>0;i--){
+            arr[i] = arr[i-1];
         }
-        arr[s-1] = temp;
+        arr[0] = temp;
 
-        System.out.print("Array After Left Rotating By One : [");
+        System.out.print("Array After Right Rotating By One : [");
         for(int i=0;i<s;i++) {
             System.out.print(arr[i]);
             if (i != s - 1) {

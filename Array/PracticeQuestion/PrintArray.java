@@ -1,7 +1,5 @@
 // Write a Java program to print all elements of an array.
-package Array;
-
-import java.util.Arrays;
+package Array.PracticeQuestion;
 
 public class PrintArray {
     public static void main(String[] args) {

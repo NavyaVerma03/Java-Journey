@@ -1,6 +1,6 @@
 // Read an array of N integers and print all elements.
 
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Scanner;
 

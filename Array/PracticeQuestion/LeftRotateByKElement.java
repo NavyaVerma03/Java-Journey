@@ -1,5 +1,5 @@
 // Write a Java program to left rotate an array by K elements.
-package Array;
+package Array.PracticeQuestion;
 
 import java.util.Scanner;
 
